@@ -1,40 +1,26 @@
 {
-    "title": "This is the title of the project",
+    "title": "Automatic-Door-Lock-System",
     "team": [
         {
-            "name": "Team Member Name 1",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#"
+            "name": "CHATHURANGI E.",
+            "email": "e14054@eng.pdn.ac.lk",
+            "eNumber": "E/14/054"
         },
         {
-            "name": "Team Member Name 2",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#"
+            "name": "WITHANAGE K.",
+            "email": "e14413@eng.pdn.ac.lk",
+            "eNumber": "E/14/413"
         },
         {
-            "name": "Team Member Name 3",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#"
+            "name": "DISSANAYAKE D.M.S.N.B",
+            "email": "e14084@eng.pdn.ac.lk",
+            "eNumber": "E/14/084"
         }
     ],
     "supervisors": [
         {
-            "name": "Dr. Supervisor 1",
-            "email": "email@eng.pdn.ac.lk",
-            "linkedin_profile":"#",
-            "researchgate_profile":"#"
-        },
-        {
-            "name": "Supervisor 2",
-            "email": "email@eng.pdn.ac.lk",
-            "linkedin_profile":"#",
-            "researchgate_profile":"#"
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk"
         }
     ],
     "tags": ["Web", "Embedded Systems"]
