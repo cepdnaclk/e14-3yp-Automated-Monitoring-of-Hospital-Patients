@@ -3,24 +3,24 @@
     "team": [
         {
             "name": "CHATHURANGI E.",
-            "email": "e14054@eng.pdn.ac.lk",
+            "email": "e14054@ce.pdn.ac.lk",
             "eNumber": "E/14/054"
         },
         {
             "name": "WITHANAGE K.",
-            "email": "e14413@eng.pdn.ac.lk",
+            "email": "e14413@ce.pdn.ac.lk",
             "eNumber": "E/14/413"
         },
         {
             "name": "DISSANAYAKE D.M.S.N.B",
-            "email": "e14084@eng.pdn.ac.lk",
+            "email": "e14084@ce.pdn.ac.lk",
             "eNumber": "E/14/084"
         }
     ],
     "supervisors": [
         {
             "name": "Dr. Isuru Nawinne",
-            "email": "isurunawinne@eng.pdn.ac.lk"
+            "email": "isurunawinne@ce.pdn.ac.lk"
         }
     ],
     "tags": ["Web", "Embedded Systems"]
