@@ -55,7 +55,7 @@ This study develops a remote monitoring diagnostic framework to detect condition
 - <a href = "https://github.com/cepdnaclk/e14-3yp-Automated-Monitoring-of-Hospital-Patients" target = "_blank"> Project Repository </a>
 - <a href = "https://cepdnaclk.github.io/e14-3yp-Automated-Monitoring-of-Hospital-Patients/" target = "_blank">Project Page</a>
 - <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
-- <a href = "https://ce.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
+- <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
 
 
 [//]: # (Please refer this to learn more about Markdown syntax)
